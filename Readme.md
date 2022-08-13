@@ -22,6 +22,10 @@
 - 🎓 Studied front-end & cross-platform devlopment in Information Technology Institute
 - 👨‍🎓 Studied electrical engineering in Higher Technological Institute
 
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=karim-mamdouh" />
+</div>
+
 ## 📌 Frameworks
 
 <div>
