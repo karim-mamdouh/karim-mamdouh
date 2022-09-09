@@ -16,8 +16,10 @@
 </p>
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=karim-mamdouh&theme=blue-green" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-mamdouh&theme=blue-green" />
 </div>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-mamdouh&theme=blue-green" />
+  </div>
 
 ## 🚀 About Me
 
