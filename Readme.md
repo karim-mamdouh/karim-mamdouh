@@ -14,6 +14,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-mamdouh&theme=blue-green" />
+</div>
 
 ## 🚀 About Me
 
