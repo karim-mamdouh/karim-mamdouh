@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=karim-mamdouh&theme=blue-green" />
 </div>
 
-
+<p>&nbsp;</p>
 
 <div align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-mamdouh&theme=blue-green" />
