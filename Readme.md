@@ -13,7 +13,9 @@
   <a href="mailto:karim.mamdouh.594@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/karim-mamdouh.svg?style=social&label=Follow&maxAge=2592000"/>
+</p>
+<p>
+<img src="https://komarev.com/ghpvc/?username=karim-mamdouh&style=for-the-badge"/>
 </p>
 <p>&nbsp;</p>
 <div align='center'>
