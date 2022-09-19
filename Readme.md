@@ -6,19 +6,27 @@
   A Front-End & .NET Framework Developer
 </p>
 
-<p align='center'>
+<div align='center'>
+  <p>Contact Me: </p>
   <a href="https://www.linkedin.com/in/karim-mamdouh-084b25141/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:karim.mamdouh.594@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-</p>
-<p>&nbsp;</p>
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=karim-mamdouh&theme=blue-green" />
 </div>
-
+<div align='center'>
+  <p>Find Me In: </p>
+  <a href="https://www.hackerrank.com/karim_mamdouh_51">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/user0171C/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.freecodecamp.org/karim-mamdouh">
+    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</div>
 <p>&nbsp;</p>
 
 <div align='center'>
