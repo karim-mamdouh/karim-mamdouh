@@ -23,9 +23,9 @@
   <a href="https://leetcode.com/user0171C/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.freecodecamp.org/karim-mamdouh">
+ <!-- <a href="https://www.freecodecamp.org/karim-mamdouh">
     <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
 </div>
 <p>&nbsp;</p>
 
