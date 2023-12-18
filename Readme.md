@@ -33,15 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karim-mamdouh&theme=blue-green" />
   </div>
 
-## 🚀 About Me
-
-- 🌱 I'm currently learning react
-- 👯 I’m looking to collaborate on a front-end or .net framework project
-- 🎓 Studied front-end & cross-platform devlopment in Information Technology Institute
-- 👨‍🎓 Studied electrical engineering in Higher Technological Institute
-
-
-
 ## 📌 Frameworks
 
 <div>
